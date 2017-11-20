@@ -7,7 +7,5 @@ version := "0.1.0"
 
 licenses += ("MIT", url("http://opensource.org/licenses/MIT"))
 
-libraryDependencies ++= "org.jsoup" % "jsoup" % "1.10.2"
-
-}
+libraryDependencies += "org.jsoup" % "jsoup" % "1.10.2"
 
