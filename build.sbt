@@ -2,7 +2,7 @@ name := """scalasoup"""
 organization  := "com.flurdy"
 description := "A Scala wrapper of JSoup HTML testing"
 
-scalaVersion := "2.13.1"
+scalaVersion := "2.13.6"
 
 version := "0.1.2"
 
