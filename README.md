@@ -23,3 +23,5 @@ A simple Scala wrapper around JSoup
    ```
 
 License: MIT
+
+---
